@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>table_name</key>
+	<dict>
+		<key>key1_test</key>
+		<integer>1</integer>
+		<key>key2_test</key>
+		<integer>2</integer>
+		<key>key3_test</key>
+		<integer>3</integer>
+		<key>key4_test</key>
+		<integer>4</integer>
+	</dict>
+	<key>usr_UnitPO</key>
+	<dict>
+		<key>PrimaryKey</key>
+		<string>UnitID</string>
+		<key>UnitID</key>
+		<integer>2</integer>
+		<key>UnitStatus</key>
+		<integer>2</integer>
+		<key>UnitGrade</key>
+		<integer>2</integer>
+		<key>CurrentUnitIndex</key>
+		<integer>2</integer>
+		<key>PassedCount</key>
+		<integer>2</integer>
+		<key>PassedTime</key>
+		<integer>4</integer>
+	</dict>
+	<key>TestPO</key>
+	<dict>
+		<key>PrimaryKey</key>
+		<string>test_attr</string>
+		<key>test_attr</key>
+		<integer>1</integer>
+	</dict>
+</dict>
+</plist>
